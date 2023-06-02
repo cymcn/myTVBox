@@ -10,7 +10,20 @@
 
 
 ### 2. 说明和修改
-  - [TVbox修改和说明](https://docs.qq.com/doc/DRXhVYWF0cEpwV2FF)   
+  - [TVbox修改和说明](https://docs.qq.com/doc/DRXhVYWF0cEpwV2FF)  
+
+ 用电脑反编译修改apk所需软件
+
+1、下载解压编译器AndroidKiller
+https://mydown.yesky.com/pcsoft/413552646.html
+
+2、安装java8环境
+http://soft.onlinedown.net/soft/10044859.htm
+
+3、下载编码器，改名为ShakaApktool.jar
+替换AndroidKiller\bin\apktool\apktool
+https://bitbucket.org/iBotPeaches/apktool/downloads/
+
 
 
  ### 2. 其他：
