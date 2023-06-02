@@ -6,7 +6,8 @@
 - 设置——配置地址——输入你的站源规则——确定即可；  
 
 ### 2. 下载地址
- - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)   
+ - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)
+ - [TVbox源地址](https://agit.ai/Yoursmile7/TVBox)      
 
 
 ### 2. 说明和修改
