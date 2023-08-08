@@ -68,6 +68,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 group-title="央视HD" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/CCTVwsjk.png",卫生健康
 http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="1905电影" tvg-logo="https://bkimg.cdn.bcebos.com/pic/8694a4c27d1ed21b0ef47e3bf839cac451da80cb91ec?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto" group-title="央视HD",1905电影
+http://zgntv.icu/live/1905.php?id=1905dy
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视HD",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226462/index.m3u8
