@@ -7,7 +7,7 @@
       "cateManual": {
       "电影": "1",
       "连续剧": "2",
-      "动漫": "4",
+      "动漫": "4", 
       "综艺": "3"
       },
       "homeVodNode": "//section/section[position()>2]//ul[@class='resize_list']/li/a",
