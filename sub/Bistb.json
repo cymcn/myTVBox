@@ -2988,6 +2988,479 @@ https://epg.480583.xyz/live/douyu/218859
 https://epg.480583.xyz/live/douyu/7356023
 
 
+#EXTM3U
+#EXTINF:-1 group-title="国际",CCTV-1 综合
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41529926091d7c1c9bbd301309610bef9d&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-2 财经
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41485ce5b46f2e095bc02ffd1a91212a6f&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-3 综艺
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41cc7d264dff7fcb94e92eb641786ead68&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-4 中文国际
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4135f962b1e9233850066397ff46902eb3&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-5 体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e0c61c8ccff55174c43f336857e5f77e&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-6 电影
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b4f2e070c054d74eba7f89577a2c0666&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-7 国防军事
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418af478c1c4c37bfd66be1164aa391a3c&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-8 电视剧
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418bddf0745805b6c032938cc38dbdfad1&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-9 纪录
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415db402d5292051859f82dc62b0fddc2d&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-10 科教
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41217012453162ba427ff23f1eed366be9&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-11 戏曲
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410d2a496d4c64a224446ee4685d118695&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-12 社会与法
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41679107b40bb0c5cf22a39bb9297bff68&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-13 新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f8d0342d2bed0791e5d129847e729644&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-14 少儿
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412e23f9fec26321be6662bf81e44d8bfa&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-15 音乐
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417f17171287bbd95a8a484ad917e3152d&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-16 奥林匹克
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b63ba2827eb8c33e69b6c7f32f48b380&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-17 农业农村
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e9c5aa90fbad865bea58acad3d973f54&type=m3u8
+#EXTINF:-1 group-title="国际",CCTV-5+ 体育赛事
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419049bcdadd56fb1c26c6c9e91e89e57e2ca5f2f1d12faa2c6c4e4e1584084b58&type=m3u8
+#EXTINF:-1 group-title="国际",湖南卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415c2ce64fef51c2275316c8dde36d1446&type=m3u8
+#EXTINF:-1 group-title="国际",南方卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e495531675fe9628f888757bdb2ae083&type=m3u8
+#EXTINF:-1 group-title="国际",浙江卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e56840a193433086e78ea6dcd8ea9584&type=m3u8
+#EXTINF:-1 group-title="国际",江苏卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419d3c1098589e039756ea95be81b6a723&type=m3u8
+#EXTINF:-1 group-title="国际",深圳卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41730b2de403bbd2f8ec46676c05a5506c&type=m3u8
+#EXTINF:-1 group-title="国际",广东卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41375e19a829ce1c403f58635eb551f94b8c0f37d884194ec40f73faff991f9597&type=m3u8
+#EXTINF:-1 group-title="国际",甘肃卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411c6571c88c65a87f69f2f8bbfc767273&type=m3u8
+#EXTINF:-1 group-title="国际",东方卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ebc0729a2cf91767b032e29e135186ce&type=m3u8
+#EXTINF:-1 group-title="国际",福建海峡卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411a527b108c3f0e7bcb3f1860955d0de0f09dcb8cd41679ca7cd02c3736006bd5&type=m3u8
+#EXTINF:-1 group-title="国际",东南卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d840c72d6700ed40b12e2095d8601499&type=m3u8
+#EXTINF:-1 group-title="国际",黑龙江卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41df7cd7eb3499093c656e250f487cd1416131a068a8eeb5964d55e0fd805dead6&type=m3u8
+#EXTINF:-1 group-title="国际",河北卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411a1598162a59b83b237a13e7a655d249&type=m3u8
+#EXTINF:-1 group-title="国际",山东卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ecc1d2693a1fa9a9f3f4f83473a64b2e&type=m3u8
+#EXTINF:-1 group-title="国际",河南卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4197a9023b9194dcf90b2e6c7008f76f4d&type=m3u8
+#EXTINF:-1 group-title="国际",四川卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413cc536d987518166a47e0828cfa6c02f&type=m3u8
+#EXTINF:-1 group-title="国际",辽宁卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41097d3cfb73d910e40f0b09ae415b607d&type=m3u8
+#EXTINF:-1 group-title="国际",青海卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41104c14d8efbb6426f24a7c57ea7d4509&type=m3u8
+#EXTINF:-1 group-title="国际",广西卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418d242dadedf5dace7280b621037b01a1&type=m3u8
+#EXTINF:-1 group-title="国际",贵州卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b670d8d49e1137a2bbdd38989d8a7a53&type=m3u8
+#EXTINF:-1 group-title="国际",厦门卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a459ab52a872b88c15aa4f423596dbf1&type=m3u8
+#EXTINF:-1 group-title="国际",西藏卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4140d92da6da8b7cffdb2bb0ce5e6f94a8&type=m3u8
+#EXTINF:-1 group-title="国际",云南卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4192f6e27c444ab839ad3319fddaf10b7e&type=m3u8
+#EXTINF:-1 group-title="国际",山西卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a569e3a72f24b0f66a66ddb97bc4b68b&type=m3u8
+#EXTINF:-1 group-title="国际",重庆卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4183395933afa4edcfdd878ba406dfb6338cb14bfffca6c95075ae62c87849b26a&type=m3u8
+#EXTINF:-1 group-title="国际",安徽卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41effb3990444f7959962c6345b69d3c68&type=m3u8
+#EXTINF:-1 group-title="国际",江西卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e8ba84a91c91a81181d1f936b94b0edd&type=m3u8
+#EXTINF:-1 group-title="国际",内蒙古卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4121e3e468dd04542267f50bb293f1c8fd6e2470909f2f24445598e9a21d18a0ef&type=m3u8
+#EXTINF:-1 group-title="国际",海南卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4189820c97aa325cea0c537a1dc0e8c93b&type=m3u8
+#EXTINF:-1 group-title="国际",湖北卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413475c9fa3864ece5c171a42f4f3a70ab&type=m3u8
+#EXTINF:-1 group-title="国际",新疆卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b01a16a47bfee9d228fda09bbb277a20&type=m3u8
+#EXTINF:-1 group-title="国际",陕西卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419550c8dc6ba74aaf0bdfd5472834e5ca&type=m3u8
+#EXTINF:-1 group-title="国际",天津卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee414b966e113457da1ec7d8a0c57f0dbed8&type=m3u8
+#EXTINF:-1 group-title="国际",宁夏卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f9c1bd90a03e703632abbface40a89a7&type=m3u8
+#EXTINF:-1 group-title="国际",北京卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41bb8eec7810828cc92898e50dbc10a4db&type=m3u8
+#EXTINF:-1 group-title="国际",吉林卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b26d9ad60e8fb45a97c426a0511bd929&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 翡翠台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee414ba18e84911e82f70e79fecf46d8cf95&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 无线新闻台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee414b1e6a050a6da345f1121366245e4da1&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 星河台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4152340f89198b9f39c450ba007092523a7e9edde6c29a11b6b55761d60f7d5b26&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 娱乐新闻台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4113ebc87340b648bc051b39d8430b10cb&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 经典台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41536e4a394d1a6bd486393c8d5ba780635164cdf3335bc2229d4b6a3684514622&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 无线财经体育资讯台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41290fb9a3ddc6772bf7a45ecd57fe15e433646eeb7689100418c70aed60d1742d&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 粤语片台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417fef8ae9ec517ac0ffc968421d661ab8912005693bc96ca91ed8abb25e1a5242&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 明珠台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41688b335d0abf025f6b62eeeae8ff7fae&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 亚洲剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415b08b152a04505b997ef6554a3c6952db748c9821d57fd5bdd7fbd1d7b2444f3&type=m3u8
+#EXTINF:-1 group-title="国际",TVB 华语剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413c616257b6697d08a775c85504dc4b57efd312fb4691a2149d7c144e7b4a9050&type=m3u8
+#EXTINF:-1 group-title="国际",凤凰卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee416f0eb4ef758b7de6abf72d3643d8c393&type=m3u8
+#EXTINF:-1 group-title="国际",凤凰卫视 资讯台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c7529d77833de2c61ae0595831e36fc9a00b830e98b43109219122f387e53801&type=m3u8
+#EXTINF:-1 group-title="国际",凤凰卫视 中文台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f19ef0110e2b7f5e86bd8512e28f1279&type=m3u8
+#EXTINF:-1 group-title="国际",凤凰卫视 香港台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee414c2fb92e95b31b5789f1e7e8f78efb1f&type=m3u8
+#EXTINF:-1 group-title="国际",天映频道 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4179cc46c36e1e21f06fb7b0f6829bec21bc27ed0018050564723dd82a1953f8ce&type=m3u8
+#EXTINF:-1 group-title="国际",天映经典
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c772f2360198558cf14b07408476cfda&type=m3u8
+#EXTINF:-1 group-title="国际",J2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b3cc7484f4b811b52cc771e09247ce66&type=m3u8
+#EXTINF:-1 group-title="国际",ViuTV
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f236d1a3b2fd63bf4ccf3f57093f1967&type=m3u8
+#EXTINF:-1 group-title="国际",ViuTV6
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41221ba9b588be5787c55f764511b12a17&type=m3u8
+#EXTINF:-1 group-title="国际",HOY TV
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418f4588eda4fef540c21b1c8cd0640d75&type=m3u8
+#EXTINF:-1 group-title="国际",HOY 资讯台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4112426619db99f4d2ecce90a6d3956d54&type=m3u8
+#EXTINF:-1 group-title="国际",澳门莲花卫视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4175d1c3cb8bceae2cc3663453f24e4936&type=m3u8
+#EXTINF:-1 group-title="国际",港台电视 31
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f627cebc68420a4414f4bec45a524129&type=m3u8
+#EXTINF:-1 group-title="国际",港台电视 32
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419c0ab070bf863b758e8f71303362b672&type=m3u8
+#EXTINF:-1 group-title="国际",澳门资讯
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41308d36b365ee7c548d07e945d755da8f&type=m3u8
+#EXTINF:-1 group-title="国际",澳视澳门
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a243a20ccd09e130692222a79c7e77dc&type=m3u8
+#EXTINF:-1 group-title="国际",香港国际财经台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412070ebb3a97ccdabb9861baa29d011d9&type=m3u8
+#EXTINF:-1 group-title="国际",中天综合台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4146917961678fe25f8b9acc7514437b97&type=m3u8
+#EXTINF:-1 group-title="国际",中天亚洲台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4135b964f60bfa1915055e7d61399da070&type=m3u8
+#EXTINF:-1 group-title="国际",纬来日本
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5911fce62f23fb67274de5d245218086e949e591406c2768efcdbbda15e453a&type=m3u8
+#EXTINF:-1 group-title="国际",纬来综合台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5911fce62f23fb67274de5d2452180817864fcfcae8920354c9bb93a07f8c65&type=m3u8
+#EXTINF:-1 group-title="国际",TVBS Asia
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418fdf0c0b1e59f6873426024895cc297cb208819853884ae78a81d3f37700fd6e&type=m3u8
+#EXTINF:-1 group-title="国际",东森综合台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b0c2bdc70e4d11c6bf57dfe1317e5824&type=m3u8
+#EXTINF:-1 group-title="国际",东森超视 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41afaca8304fdec381c5020a35368ba16d50d4788b82ca2d5f5534f1cb00c9cad2&type=m3u8
+#EXTINF:-1 group-title="国际",台视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41154afdb7d6517d26a31ccab2b0f5751a&type=m3u8
+#EXTINF:-1 group-title="国际",八大综合台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c8f300d0e1e7911613c028b07d2c7615&type=m3u8
+#EXTINF:-1 group-title="国际",八大第一台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4132865f6c9ee27b71f4f2ad9725db7a27&type=m3u8
+#EXTINF:-1 group-title="国际",中视 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c9146803e3e807c74adcec1476627a3e&type=m3u8
+#EXTINF:-1 group-title="国际",中视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417f0805509800c448cc5c8086ecd58f73&type=m3u8
+#EXTINF:-1 group-title="国际",华视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4177c22d4e4cd87bc417b22fb0a74f59c3&type=m3u8
+#EXTINF:-1 group-title="国际",ELTA 综合
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411735cde8a5b3c4900b20bc224eb2a318&type=m3u8
+#EXTINF:-1 group-title="国际",客家电视台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411dadc98dce5cd0e9ab7b15223c31fb7e&type=m3u8
+#EXTINF:-1 group-title="国际",公视3台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410e307b98e80dc8c3fc131de91d8a2f2a&type=m3u8
+#EXTINF:-1 group-title="国际",公视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d6d5d766d5e06182866fd355fd7543a5&type=m3u8
+#EXTINF:-1 group-title="国际",靖天国际台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412c11cc72e4aa608ef27d3c90a5a89729&type=m3u8
+#EXTINF:-1 group-title="国际",大爱一台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a0f9fe2af61547423b17cff9734a2af5&type=m3u8
+#EXTINF:-1 group-title="国际",大爱二台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41fde8b47a898d3e73f3bf87d5bda58432&type=m3u8
+#EXTINF:-1 group-title="国际",中天新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c34bfa10f4eb7b8df3038c8f8a280ca6&type=m3u8
+#EXTINF:-1 group-title="国际",TVBS HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d35bd417d076d6c6b31266ed9130c18e&type=m3u8
+#EXTINF:-1 group-title="国际",TVBS 新闻台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411e596366ebca97bc8909688cf9e781b99f3dab1f05b95a90c8fdf0d891e93846&type=m3u8
+#EXTINF:-1 group-title="国际",东森新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4158361f36a19ff42fb9423757bb43ae78&type=m3u8
+#EXTINF:-1 group-title="国际",东森财经新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41695c715bdbaaca7ee3844d503b9dd43ce5a02c8dc1050436eb67b6e29216e662&type=m3u8
+#EXTINF:-1 group-title="国际",壹新闻 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d5821513a829d7cde7a26d28ebbd261e&type=m3u8
+#EXTINF:-1 group-title="国际",中视新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d0912fac7a3b673d1dc84f4c17e07887&type=m3u8
+#EXTINF:-1 group-title="国际",年代新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b89ba5b4d3366c1430dbf3b5a52314cc&type=m3u8
+#EXTINF:-1 group-title="国际",寰宇新闻台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417297b1d7797775ad84bd4d7af3bef2c1403b0cd67b29a36e48749d6420a3c865&type=m3u8
+#EXTINF:-1 group-title="国际",台视新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ba28d3b021d7cb6b10cd543fed82a9cb&type=m3u8
+#EXTINF:-1 group-title="国际",非凡新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417bf68a77fbd8961a0c0decc1ee51c8462f6ca28b6c2c5b828b6b155018a56c53&type=m3u8
+#EXTINF:-1 group-title="国际",华视新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4179abb848dc1a23f2acea4b58a80b9429&type=m3u8
+#EXTINF:-1 group-title="国际",镜新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4189eb3c77f5ea89a784c39e52a9360a03&type=m3u8
+#EXTINF:-1 group-title="国际",靖天资讯台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d31bfadcdae320e14d80ac97b6cae2f5&type=m3u8
+#EXTINF:-1 group-title="国际",星卫HD电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c7ca216c810d5b03b6b98206b62fbf117e54a9ed08d4ead7b0d1d69d0dc6b72e&type=m3u8
+#EXTINF:-1 group-title="国际",纬来电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5911fce62f23fb67274de5d2452180831c62d6654805421b7b65aee9e9d7542&type=m3u8
+#EXTINF:-1 group-title="国际",纬来戏剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5911fce62f23fb67274de5d245218085f8928485ac9bb4333abc0df3c7c74d0&type=m3u8
+#EXTINF:-1 group-title="国际",东森电影 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412cfbeaa42835a72d427e4d59720bf328c1e26c7b8638d90a671991b7a4fa155b&type=m3u8
+#EXTINF:-1 group-title="国际",东森电影
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412cfbeaa42835a72d427e4d59720bf3286d82ee3536e6afa5602f241d4bab2a78&type=m3u8
+#EXTINF:-1 group-title="国际",东森洋片
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee416d8e4b50b0ef320ac2770fb87a52398be845cddb10e429171f1a3eb46d1115f6&type=m3u8
+#EXTINF:-1 group-title="国际",东森戏剧
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e34d8a23090b8209d9fb7f91c0b81db029a0da1e0a62dfc90447d790c3d09195&type=m3u8
+#EXTINF:-1 group-title="国际",卫视电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415240c7c0edf4904295820d3270cb015a4279a26116d5f00426cc6704bc3efdd5&type=m3u8
+#EXTINF:-1 group-title="国际",星卫娱乐台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ccabbd1fae012dc2761b609be145ab0f0f42c96492328a375573966924953dfc&type=m3u8
+#EXTINF:-1 group-title="国际",卫视中文台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415240c7c0edf4904295820d3270cb015a9f11ed59ff1fc3ec7c6e867fb7ef789c&type=m3u8
+#EXTINF:-1 group-title="国际",龙华电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413e2b3f5ee62de9d8183bc4c051a259d5613185a8ab0cd07f97f7a7fb508a7d68&type=m3u8
+#EXTINF:-1 group-title="国际",龙华洋片台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4102aa1b17af6cc3878087ab5a5c050ec0f8095fc3c15e6015d6b3c87f9b6083d3&type=m3u8
+#EXTINF:-1 group-title="国际",好莱坞电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41470bd584db250d06bb34107537352cfbfe8a9d76038e837911da307ab7708f73&type=m3u8
+#EXTINF:-1 group-title="国际",TVBS 欢乐台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b09b8ae22a3490f1987bb984383c65a95a0a61084045cf5c79f9094a7499a458&type=m3u8
+#EXTINF:-1 group-title="国际",ELTA 影剧
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee416dafbbf57864db2dd0a3346b18d7cb3527e83efb7177262f7312f2373e44c930&type=m3u8
+#EXTINF:-1 group-title="国际",龙祥电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c4ea59b6190e8d866317154d06d031e8&type=m3u8
+#EXTINF:-1 group-title="国际",EYE 戏剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41adc5292d62dbfac947b1882a07258b448010be814af4a35f506f7fe019b9c5ad&type=m3u8
+#EXTINF:-1 group-title="国际",八大戏剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41906ca727efe78eaa288c22a209bcc523&type=m3u8
+#EXTINF:-1 group-title="国际",八大娱乐台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4109f02bd76c9064eb4588ce1a902a4481&type=m3u8
+#EXTINF:-1 group-title="国际",MTV Live HD 频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41bb38f6bac9be5918a193780d978904b8&type=m3u8
+#EXTINF:-1 group-title="国际",靖天电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ba6c238d250b1142c3dc651a46d7c77f&type=m3u8
+#EXTINF:-1 group-title="国际",中天娱乐台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4191f345591be95263606c45526b83485a&type=m3u8
+#EXTINF:-1 group-title="国际",靖洋戏剧台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee418362890b9d303dbd1d533fbefe202311&type=m3u8
+#EXTINF:-1 group-title="国际",美亚电影台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4107603960b532a34b292aff771dab24260f6793e93911df06853c55ef9577c5cf&type=m3u8
+#EXTINF:-1 group-title="国际",8TV
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41dd4fbf3e243516464ceab4a1b0968562&type=m3u8
+#EXTINF:-1 group-title="国际",Astro AEC
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4100bac05988136921667a94b77454a2dd9c1961a48723c59c1785025b85111bd1&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 华丽台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41fb585c963a0ccef5f046e9a1f49f591fccba39f2793f19c6a3ef35134bd97d4e&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 欢喜台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b03cdadf994121a3a7161d21245557fe45a16f25f4aeede4d7a7435f01de9e83&type=m3u8
+#EXTINF:-1 group-title="国际",Astro AOD HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411232c18da024a15b27e1b72bdbdcc33da45fdd6c0aa628f7d3b1fe12cde6c837&type=m3u8
+#EXTINF:-1 group-title="国际",Astro AOD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411232c18da024a15b27e1b72bdbdcc33d159f421c1945693ef8d6e627a565c236&type=m3u8
+#EXTINF:-1 group-title="国际",Channel U
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c6db76aa19fb1b73d5463a8af3a3a28bc2f882c4791c26d7a722fae1acd6d357&type=m3u8
+#EXTINF:-1 group-title="国际",Channel 5
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4154a5348f9f2acc7332ce75aa4a2ad3f1de6ef1c25472b827d3a8326733f179e8&type=m3u8
+#EXTINF:-1 group-title="国际",Channel 8
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee414b7a610a1e38671b958f88369c8ab08c&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 爱奇艺
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b2661e5b66fc24092a624fc8c66a7ff096d809531dcdb400606845845b7aef80&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 全佳台 HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4144d8c94ac1c420bcdd11b0ffc6aba782417ad5b6bbd97ba773b97babb1d0806a&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 双星台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419cd374e54c80e44e6419c653c45a5ebc02b6e64999084438df07b22d7688cdfb&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Arena HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410e60dea97f426392b833a05b78f40ba734783347656b6eeb86bf9ff6b2536d2e&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Arena 2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410e60dea97f426392b833a05b78f40ba7a8ad3cc7fd412e8f45ba8d5b5f1d7c9d&type=m3u8
+#EXTINF:-1 group-title="国际",Astro ONE
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4147cb73830e7f11dd72800d5f35f2498f3e62426225057c7da3e2b7ccb62111e5&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Awani
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412e9a737a8876859cf9c1cf83ff4f0ae5e85bb0b84d8f7d7de54e418ba8cc2a79&type=m3u8
+#EXTINF:-1 group-title="国际",OKEY
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41cde0a57c5ea6c6d02abb778d285c2c64&type=m3u8
+#EXTINF:-1 group-title="国际",TV9
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f538866453bc55944a662ab47661332b&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Ceria
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410f74f2778b49e08b9582dfba27b086d7eb2e5c750691804c934cdee6eba7f1b5&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Prima
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4128ceaec3ea8b314ec1225cc5968174eb06ccc44af57494b961f81e4a40b97737&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Warna
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410b32a0e33272a51a954740bdab292c1a20d50eaabcf328a4abddf52d0a5aca72&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Aura
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415468e5850f718476f548e1ce16d8bc7822864ec95cf0b56be61083af5076dbc1&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Oasis
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41b65aafb5d24a43f5c649cdf1a081f7819d0da878701426f03705b1ea7a64c437&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Rania
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5daaf821a2ac8e80af4f197b69381586ffc5f560e4bca1cb93d6c509b8c5718&type=m3u8
+#EXTINF:-1 group-title="国际",Astro Citra
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413c3edd8caa5d81cbc3c8f893d4f37b96c6601883874f68dfaccae1fe871624fe&type=m3u8
+#EXTINF:-1 group-title="国际",广东珠江
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f1ae381da0f1c311ca40a3f2ec1482df&type=m3u8
+#EXTINF:-1 group-title="国际",广东体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41f99a782ad91e8c4e129dc13bbc6c6d5a&type=m3u8
+#EXTINF:-1 group-title="国际",上海都市
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a78e6ba81c5912e8ef387ff4dc35d9f5&type=m3u8
+#EXTINF:-1 group-title="国际",五星体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ee6a1277a1544c218c10f2e2d5e84c4c&type=m3u8
+#EXTINF:-1 group-title="国际",第一财经
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411304a41f8222f7055598570e342f0ec1&type=m3u8
+#EXTINF:-1 group-title="国际",上海新闻
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41455679a49f6ca1df80b650c78d268401&type=m3u8
+#EXTINF:-1 group-title="国际",北京体育休闲
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411f9eef21ec672ee81250504daaadc72f&type=m3u8
+#EXTINF:-1 group-title="国际",湖南经视
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41353561649e63645bbbefc109eab8f2dc&type=m3u8
+#EXTINF:-1 group-title="国际",北京财经
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417655c6a1794adeb8eabda19b5f0f0de7&type=m3u8
+#EXTINF:-1 group-title="国际",天津体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4195c27c56fdad915e864a5eb52a41e09e&type=m3u8
+#EXTINF:-1 group-title="国际",河南梨园
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4135f34922fe45c3dd69db204cb33f6446&type=m3u8
+#EXTINF:-1 group-title="国际",辽宁体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a6c0566d8d44f24ed39ece07710ed1a8&type=m3u8
+#EXTINF:-1 group-title="国际",NBA
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e33dc183627af13a63b5c9fae16063f1&type=m3u8
+#EXTINF:-1 group-title="国际",纬来体育
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a5911fce62f23fb67274de5d24521808bb6f3fe0b08104fa251c4fdea1788878&type=m3u8
+#EXTINF:-1 group-title="国际",ELTA体育-1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419ecf44f48ec2b8b40435739fe00da5d8a5815c973a675f852d0b8f95d401a24b&type=m3u8
+#EXTINF:-1 group-title="国际",ELTA体育-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419ecf44f48ec2b8b40435739fe00da5d86b5be6d1afed8002227cbc89a2ee808e&type=m3u8
+#EXTINF:-1 group-title="国际",ELTA体育-3
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419ecf44f48ec2b8b40435739fe00da5d8500cba5df831d66c038e5f84e6da0715&type=m3u8
+#EXTINF:-1 group-title="国际",ELEVEN体育-1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c48939353514e066bb4cfb10586a1ca8410001a9daecbe09b0da9baf438ff8ba&type=m3u8
+#EXTINF:-1 group-title="国际",ELEVEN体育-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c48939353514e066bb4cfb10586a1ca8673b7e8bdf5ca30535965670d3e4ce56&type=m3u8
+#EXTINF:-1 group-title="国际",beIN Sports 1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412dd51e0ff09ee790179d0b86c43ebecf52fe44ed3ab5cb75ad6bf8619cb018a3&type=m3u8
+#EXTINF:-1 group-title="国际",beIN Sports 2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412dd51e0ff09ee790179d0b86c43ebecf79826227598edf8086d15a522203f842&type=m3u8
+#EXTINF:-1 group-title="国际",beIN Sports 3
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412dd51e0ff09ee790179d0b86c43ebecfb3f1d232449c24fdc5e34ace7b74f7a9&type=m3u8
+#EXTINF:-1 group-title="国际",Eurosport HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e5dcd26b91f6f5cadf5a8f0de5367cd3d8942c86c93826576b0ab39feb6258b2&type=m3u8
+#EXTINF:-1 group-title="国际",Eurosports-1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e5dcd26b91f6f5cadf5a8f0de5367cd3c16298e5d73173cd29dbb5ec1c437dd1&type=m3u8
+#EXTINF:-1 group-title="国际",Eurosports-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ee3b8a3a0b9ad806b85e37c3dbc8ae60fe65a1e6161553d9d35bf2a94b36614f&type=m3u8
+#EXTINF:-1 group-title="国际",Astro SuperSport
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ee3b8a3a0b9ad806b85e37c3dbc8ae60d2e068d9fec24f4faae9381ff90d0481&type=m3u8
+#EXTINF:-1 group-title="国际",Astro SuperSport 4
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ee3b8a3a0b9ad806b85e37c3dbc8ae60f8eb081707a5b65e3e00bd183812d9f6&type=m3u8
+#EXTINF:-1 group-title="国际",博斯无限
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4e6babfd030826585eb8fd4bfdfc4a105f&type=m3u8
+#EXTINF:-1 group-title="国际",博斯网球
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4e92e495efe2bc9f2a38c046a2972a8b3c&type=m3u8
+#EXTINF:-1 group-title="国际",博斯运动-1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4e341c009badf49e0fdd27e56744c63e56&type=m3u8
+#EXTINF:-1 group-title="国际",博斯运动-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4ec3950329a4688e9bbfe5528ba55fd2be&type=m3u8
+#EXTINF:-1 group-title="国际",博斯高球-1
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4e7df2c373157d979e1b04d486ba1f8602&type=m3u8
+#EXTINF:-1 group-title="国际",博斯高球-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41ea52134edbb1ae13f7616fd7ea066f4eff4a87527d0fa56482074d948ce52764&type=m3u8
+#EXTINF:-1 group-title="国际",SPOTV
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41fa5de637f22a77f90b673597c27e6c48&type=m3u8
+#EXTINF:-1 group-title="国际",SPOTV-2
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41a47937a2bb21f35531b9919731e587bc&type=m3u8
+#EXTINF:-1 group-title="国际",迪士尼频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4157319c65a86f54e3beaa35846a750bc8&type=m3u8
+#EXTINF:-1 group-title="国际",东森幼幼台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41426f850de369c7ba82676fe744b6bb3f&type=m3u8
+#EXTINF:-1 group-title="国际",CN卡通
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4138a3590579dc87e85b91814f366bd933d6c00dd4c0a894c8bbb0b6903edd5060&type=m3u8
+#EXTINF:-1 group-title="国际",MOMO亲子台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41e832b2b6b4bcda6add6445ffa7850798dcf87282014190983d3683290ba92282&type=m3u8
+#EXTINF:-1 group-title="国际",MOMOTV
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41df7f00b3ce9e87e52ba71219ffe593cc&type=m3u8
+#EXTINF:-1 group-title="国际",尼克儿童频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411d5b5046be5a8bd97e0f73d81926c611954dc9d7ec34759cc8c381a0cbb6ec08&type=m3u8
+#EXTINF:-1 group-title="国际",小尼克频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411636648f265305282f37c87c11235e99&type=m3u8
+#EXTINF:-1 group-title="国际",Animax卡通
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417578cdad7bf00e8e0adfe3864fb3e967b024bcf09e699c25cdfab64651788904&type=m3u8
+#EXTINF:-1 group-title="国际",Astro 小太阳
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41504792cbbe08b5ecdc953923430bf1f97cc33a940067182ddef46dc396cbae7c&type=m3u8
+#EXTINF:-1 group-title="国际",Boomerang HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee416129b533b70d6bcd2f16051d008ca18b3b8a332fb5d22ce96daf37741e5055cb&type=m3u8
+#EXTINF:-1 group-title="国际",靖天卡通台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee410d5f44cbc61e401ac22d5a62f6c4096b&type=m3u8
+#EXTINF:-1 group-title="国际",国家地理
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4161146cffa673aeaad17fab741f16bf56&type=m3u8
+#EXTINF:-1 group-title="国际",国家地理 野生频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41d6c5a96b26c99c529bdcdae2ef3ab99ce64f057fa15b9c65f2dfb6d219728218&type=m3u8
+#EXTINF:-1 group-title="国际",探索频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415dd8d46d0a253b4b2107885624c13d22cf0fbbcc91bf4e776e96a11569bb323b&type=m3u8
+#EXTINF:-1 group-title="国际",DMAX
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41dd9406300fee8af8efee1a7fc109e9e4&type=m3u8
+#EXTINF:-1 group-title="国际",探索科学频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415dd8d46d0a253b4b2107885624c13d22279e11cabcb3e8b10c0a76994b70c99c&type=m3u8
+#EXTINF:-1 group-title="国际",探索亚洲频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee415dd8d46d0a253b4b2107885624c13d22166adda469b8287e5dca899938edbc2b&type=m3u8
+#EXTINF:-1 group-title="国际",History 频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c3b06062e7e3ba08bd98506ad694e821&type=m3u8
+#EXTINF:-1 group-title="国际",History-2 频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c5295c71a71c1a1c4e2fb654f8a00afe31ee20ca921002fec8ee45c7e24d0510&type=m3u8
+#EXTINF:-1 group-title="国际",美食星球频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee419cc4254c28b9298a9f420dcb00cde53954f92d96ebf3c471c700930a336baa57&type=m3u8
+#EXTINF:-1 group-title="国际",亚洲旅游台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41af47247452ea1e10c9fda84b106bfdf644061dec0ef982206a4f6cbe7da73c08&type=m3u8
+#EXTINF:-1 group-title="国际",TLC 旅游生活頻道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4178ae1700401eb027a6a0e37f5b51342d&type=m3u8
+#EXTINF:-1 group-title="国际",EYE 旅游台
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4103e24c2751faf4a7c7ffd62d2ceb4c090fff0e156472af9e90d5823efd4a408c&type=m3u8
+#EXTINF:-1 group-title="国际",动物星球频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c7b00e8cf5dc059fc0be2bfb9f93d27a3949769876a17276a21db8e7d9997140&type=m3u8
+#EXTINF:-1 group-title="国际",CI 罪案侦查频道
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4107ad09a30a414bad6afb9656438bbcd3&type=m3u8
+#EXTINF:-1 group-title="国际",HBO HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4140ca5ff5d96eb321fae3363e01d05267&type=m3u8
+#EXTINF:-1 group-title="国际",HBO Hits HD
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee417346e59178537071f3716ec22d77e7a08e0b035cd713f88104ebef639ff521f4&type=m3u8
+#EXTINF:-1 group-title="国际",CNN
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4129be19f017d0cbdba01c8d795de9d6e7&type=m3u8
+#EXTINF:-1 group-title="国际",CNN International
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413648d188a309fdc87e918b1c0689f115583f4c423720ec68903c8788d13eea28&type=m3u8
+#EXTINF:-1 group-title="国际",HLN
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41871a39e741a179dcac50cc46eced7696&type=m3u8
+#EXTINF:-1 group-title="国际",BBC World News
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee413fd91574791751df2ba6fc87b843c537cc66b5032b01a32bf6f1be3ff1ac1e30&type=m3u8
+#EXTINF:-1 group-title="国际",CNBC
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee4199a680aeb93b159aa74efbd02bb2052d&type=m3u8
+#EXTINF:-1 group-title="国际",Fox News
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41420e0aea787d067985fcfee3e718de98&type=m3u8
+#EXTINF:-1 group-title="国际",CBS News
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee412ddeb83358394e67de337f61c09b9b23&type=m3u8
+#EXTINF:-1 group-title="国际",Euronews
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee411f7058bae4ad475dcd868f165849164f&type=m3u8
+#EXTINF:-1 group-title="国际",ABC News
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee41c1e5f045f9229ad9a0c04af3eb543b9b&type=m3u8
+#EXTINF:-1 group-title="国际",Bloomberg
+http://public.t4vod.repl.co/histar/index.php?url=cc37df55f95f2a5e26579f5cd04aee416ef4cd57915e101b126a1fabe5cab4233f7e88671d4f1b23c25b8f6c7afefb89&type=m3u8
+
+
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视HD",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226462/index.m3u8
