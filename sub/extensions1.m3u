@@ -218,6 +218,18 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视HD",厦门卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226219/index.m3u8
  
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视HD",凤凰中文
+http://dns.yiandrive.com:15907/phenix/fhzw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视HD",凤凰资讯
+http://dns.yiandrive.com:15907/phenix/fhzx                                   
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视HD",凤凰香港
+http://dns.yiandrive.com:15907/phenix/fhhk
+
+
+
+
+
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视HD",湖南金鹰纪实 8M
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="卫视HD",上海第一财经 8M
