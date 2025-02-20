@@ -406,8 +406,53 @@ http://free.frp.vip:10869/hnhk.php?id=hnly
 http://free.frp.vip:10869/hnhk.php?id=wwbk
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="HN",武术世界
 http://free.frp.vip:10869/hnhk.php?id=wspd
-#EXTINF:-1,tvg-id="H睛彩
 
+#EXTINF:-1,tvg-id="H睛彩中原" tvg-name="H睛彩中原" tvg-logo="https://epg.v1.mk/logo/H睛彩中原.png" group-title="HN",睛彩中原
+http://free.frp.vip:10869/hnhk.php?id=jczy
+#EXTINF:-1,tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://epg.v1.mk/logo/移动戏曲.png" group-title="HN",移动戏曲
+http://free.frp.vip:10869/hnhk.php?id=ydxj
+#EXTINF:-1,tvg-id="中国气象" tvg-name="中国气象" tvg-logo="https://epg.v1.mk/logo/中国气象.png" group-title="HN",象视界
+http://free.frp.vip:10869/hnhk.php?id=xsj
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="HN",国学频道
+http://free.frp.vip:10869/hnhk.php?id=gxpd
+#EXTINF:-1,tvg-id="郑州新闻综合" tvg-name="郑州新闻综合" tvg-logo="https://epg.v1.mk/logo/郑州新闻综合.png" group-title="HN",郑州新闻综合
+http://free.frp.vip:10869/hnhk.php?id=zz1
+#EXTINF:-1,tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://epg.v1.mk/logo/开封新闻综合.png" group-title="HN",开封新闻综合
+http://free.frp.vip:10869/hnhk.php?id=kf1
+#EXTINF:-1,tvg-id="洛阳新闻" tvg-name="洛阳新闻" tvg-logo="https://epg.v1.mk/logo/洛阳新闻.png" group-title="HN",洛阳新闻综合
+http://free.frp.vip:10869/hnhk.php?id=ly1
+#EXTINF:-1,tvg-id="平顶山" tvg-name="平顶山" tvg-logo="https://epg.v1.mk/logo/平顶山.png" group-title="HN",平顶山新闻综合
+http://free.frp.vip:10869/hnhk.php?id=pds1
+#EXTINF:-1,tvg-id="安阳" tvg-name="安阳" tvg-logo="https://epg.v1.mk/logo/安阳.png" group-title="HN",安阳新闻综合
+http://free.frp.vip:10869/hnhk.php?id=ay1
+#EXTINF:-1,tvg-id="鹤壁" tvg-name="鹤壁" tvg-logo="https://epg.v1.mk/logo/鹤壁.png" group-title="HN",鹤壁新闻综合
+http://free.frp.vip:10869/hnhk.php?id=hb1
+#EXTINF:-1,tvg-id="新乡" tvg-name="新乡" tvg-logo="https://epg.v1.mk/logo/新乡.png" group-title="HN",新乡新闻综合
+http://free.frp.vip:10869/hnhk.php?id=xx1
+#EXTINF:-1,tvg-id="焦作" tvg-name="焦作" tvg-logo="https://epg.v1.mk/logo/焦作.png" group-title="HN",焦作新闻综合
+http://free.frp.vip:10869/hnhk.php?id=jz1
+#EXTINF:-1,tvg-id="濮阳" tvg-name="濮阳" tvg-logo="https://epg.v1.mk/logo/濮阳.png" group-title="HN",濮阳新闻综合
+http://free.frp.vip:10869/hnhk.php?id=py1
+
+
+#EXTINF:-1,tvg-id="许昌" tvg-name="许昌" tvg-logo="https://epg.v1.mk/logo/许昌.png" group-title="HN",许昌新闻综合
+http://free.frp.vip:10869/hnhk.php?id=xc1
+#EXTINF:-1,tvg-id="漯河" tvg-name="漯河" tvg-logo="https://epg.v1.mk/logo/漯河.png" group-title="HN",漯河新闻综合
+http://free.frp.vip:10869/hnhk.php?id=lh1
+#EXTINF:-1,tvg-id="三门峡" tvg-name="三门峡" tvg-logo="https://epg.v1.mk/logo/三门峡.png" group-title="HN",三门峡新闻综合
+http://free.frp.vip:10869/hnhk.php?id=smx1
+#EXTINF:-1,tvg-id="南阳" tvg-name="南阳" tvg-logo="https://epg.v1.mk/logo/南阳.png" group-title="HN",南阳新闻综合
+http://free.frp.vip:10869/hnhk.php?id=ny1
+#EXTINF:-1,tvg-id="商丘" tvg-name="商丘" tvg-logo="https://epg.v1.mk/logo/商丘.png" group-title="HN",商丘新闻综合
+http://free.frp.vip:10869/hnhk.php?id=sq1
+#EXTINF:-1,tvg-id="信阳" tvg-name="信阳" tvg-logo="https://epg.v1.mk/logo/信阳.png" group-title="HN",信阳新闻综合
+http://free.frp.vip:10869/hnhk.php?id=xy1
+#EXTINF:-1,tvg-id="周口" tvg-name="周口" tvg-logo="https://epg.v1.mk/logo/周口.png" group-title="HN",周口新闻综合
+http://free.frp.vip:10869/hnhk.php?id=zk1
+#EXTINF:-1,tvg-id="驻马店" tvg-name="驻马店" tvg-logo="https://epg.v1.mk/logo/驻马店.png" group-title="HN",驻马店新闻综合
+http://free.frp.vip:10869/hnhk.php?id=zmd1
+#EXTINF:-1,tvg-id="济源" tvg-name="济源" tvg-logo="https://epg.v1.mk/logo/济源.png" group-title="HN",济源新闻综合
+http://free.frp.vip:10869/hnhk.php?id=jy1
 
 
 
