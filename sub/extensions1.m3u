@@ -379,6 +379,39 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 
 
 
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="HN",河南卫视
+http://free.frp.vip:10869/hnhk.php?id=hnws
+#EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://epg.v1.mk/logo/河南都市.png" group-title="HN",河南都市
+http://free.frp.vip:10869/hnhk.php?id=hnds
+#EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://epg.v1.mk/logo/河南民生.png" group-title="HN",河南民生
+http://free.frp.vip:10869/hnhk.php?id=hnms
+#EXTINF:-1,tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://epg.v1.mk/logo/河南法治.png" group-title="HN",河南法治
+http://free.frp.vip:10869/hnhk.php?id=hmfz
+#EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://epg.v1.mk/logo/河南电视剧.png" group-title="HN",河南电视剧
+http://free.frp.vip:10869/hnhk.php?id=hndsj
+#EXTINF:-1,tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://epg.v1.mk/logo/河南新闻.png" group-title="HN",河南新闻
+http://free.frp.vip:10869/hnhk.php?id=hnxw
+#EXTINF:-1,tvg-id="H欢腾购物" tvg-name="H欢腾购物" tvg-logo="https://epg.v1.mk/logo/H欢腾购物.png" group-title="HN",欢腾购物
+http://free.frp.vip:10869/hnhk.php?id=htgw
+#EXTINF:-1,tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://epg.v1.mk/logo/河南公共.png" group-title="HN",河南公共
+http://free.frp.vip:10869/hnhk.php?id=hngg
+#EXTINF:-1,tvg-id="河南乡村频道A" tvg-name="河南乡村频道A" tvg-logo="https://epg.v1.mk/logo/河南乡村频道A.png" group-title="HN",河南乡村
+http://free.frp.vip:10869/hnhk.php?id=hnxc
+#EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://epg.v1.mk/logo/河南国际.png" group-title="HN",河南国际
+http://free.frp.vip:10869/hnhk.php?id=hngj
+#EXTINF:-1,tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="HN",河南梨园
+http://free.frp.vip:10869/hnhk.php?id=hnly
+#EXTINF:-1,tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://epg.v1.mk/logo/文物宝库.png" group-title="HN",文物宝库
+http://free.frp.vip:10869/hnhk.php?id=wwbk
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="HN",武术世界
+http://free.frp.vip:10869/hnhk.php?id=wspd
+#EXTINF:-1,tvg-id="H睛彩
+
+
+
+
+
 
 
 
