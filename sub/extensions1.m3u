@@ -78,8 +78,15 @@ http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视HD",CHC动作电影
 http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226465/index.m3u8
 
-#EXTINF:-1 group-title="央视HD" tvg-logo="https://fastly.jsdelivr.net/gh/cymcn/IPTV@main/NGDS.PNG",南国都市4K
-https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 group-title="央视HD" ,邵氏电影
+http://feilong123.vip/409990236/tvss.php?id=ssdy
+#EXTINF:-1 group-title="央视HD" ,邵氏武侠
+http://feilong123.vip/409990236/tvss.php?id=sswx
+#EXTINF:-1 group-title="央视HD" ,邵氏动作
+http://feilong123.vip/409990236/tvss.php?id=ssdz
+#EXTINF:-1 group-title="央视HD" ,邵氏喜剧
+http://feilong123.vip/409990236/tvss.php?id=ssxj
+
 #EXTINF:-1 group-title="央视HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",第一财经
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 
